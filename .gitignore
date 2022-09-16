@@ -153,3 +153,5 @@ cython_debug/
 
 scratch*
 .dist/
+preview/
+.vscode/
